@@ -31,7 +31,8 @@ HTML, CSS (TailwindCSS optional)
 
 JavaScript
 
-Alpine.js (if used)
+Alpine.js (if needed)
+
 
 🎮 **About the GTA RP Server**
 
